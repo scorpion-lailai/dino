@@ -28,11 +28,9 @@ Feel each other's life together. Build deep friendships with others
 
 <h1>App Page Preview</h1> 
 
-<h2>Login Page</h2>
+<h2>Welcome Page</h2>
 
 <img width="375" alt="登录／注册" src="https://github.com/scorpion-lailai/dino/assets/38285735/d89060af-410f-4251-b82c-caaeda362cf4">
-
-<img width="375" alt="登录／注册 (1)" src="https://github.com/scorpion-lailai/dino/assets/38285735/a1786aed-c1f7-4986-a18b-ff7006ed78a5">
 
 <h2>Room Page</h2>
 
