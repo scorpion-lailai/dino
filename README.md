@@ -1,6 +1,7 @@
-# dino
 
-Dino,voice chat & make friends
+Dino
+
+voice chat & make friends
 Dino is a voice chat app that provides stable and high-quality voice services. Here you can make new friends, and create a sweet and interactive community. You can enjoy voice chat and interesting events with people from around the world.
 
 Main features
